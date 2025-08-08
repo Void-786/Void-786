@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Faiz Ullah Khan</h1>
+<h3 align="center">Building, learning, and growing every day as a Computer Science undergraduate.</h3>
 
-<!--
-**Void-786/Void-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech in Computer Science  
+- 💻☕ Java Full Stack Developer  
+- 🏆 Solved 300+ coding problems on [LeetCode](https://leetcode.com/faiz_ullah_khan)  
+- 📫 How to reach me: faizullahkhan2209@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/faiz-ullah-khan-01788035b/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>](https://instagram.com/null_and_void786)
+[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/>](https://t.me/null_and_void786)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="40" height="40"/>](https://leetcode.com/faiz_ullah_khan)
+
+---
+
+### Languages and Tools:
+<p align>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height="40" style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin: 0 10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="margin: 0 10px;"/> 
+</p>
+
+---
+
+### Most Used Languages:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Void-786&layout=compact&langs_count=6&theme=dark)
