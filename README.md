@@ -9,16 +9,19 @@
 ---
 
 ### Connect with me:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/faiz-ullah-khan-01788035b/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>](https://instagram.com/null_and_void786)
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/>](https://t.me/null_and_void786)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="40" height="40"/>](https://leetcode.com/faiz_ullah_khan)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40"/>](https://www.linkedin.com/in/faiz-ullah-khan-01788035b/)
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" title="Instagram" width="40"/>](https://instagram.com/null_and_void786)
+&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" title="Telegram" width="40"/>](https://t.me/null_and_void786)
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" title="LeetCode" width="40"/>](https://leetcode.com/faiz_ullah_khan)
 
 ---
 
 ### Languages and Tools:
 <p align>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50" style="margin: 0 15px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50" style="margin: 0 15px;"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" title="Spring Boot" height="50" style="margin: 0 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50" style="margin: 0 15px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50" style="margin: 0 15px;"/> 
