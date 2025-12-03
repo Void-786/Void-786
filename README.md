@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faiz Ullah Khan</h1>
 <h3 align="center">Building, learning, and growing every day as a Computer Science undergraduate.</h3>
 
-- 🎓 B.Tech in Computer Science  
-- 💻☕ Java Full Stack Developer  
-- 🏆 Solved 300+ coding problems on [LeetCode](https://leetcode.com/faiz_ullah_khan)  
-- 📫 How to reach me: faizullahkhan2209@gmail.com  
+- 🎓 B.Tech in Computer Science
+- 💻☕ Java Full Stack Developer
+- 🌐 Portfolio: https://faizullahkhan.qzz.io
+- 🏆 Solved 300+ coding problems on [LeetCode](https://leetcode.com/faiz_ullah_khan)
+- 📫 How to reach me: faizullahkhan2209@gmail.com
 
 ---
 
