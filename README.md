@@ -33,9 +33,3 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50" style="margin: 0 15px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="50" height="50" style="margin: 0 15px;"/> 
 </p>
-
-
----
-
-### Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Void-786&layout=compact&langs_count=6&theme=dark)
