@@ -4,7 +4,7 @@
 - 🎓 B.Tech in Computer Science
 - 💻☕ Java Full Stack Developer
 - 🌐 Portfolio: https://faizullahkhan.qzz.io
-- 🏆 Solved 300+ coding problems on [LeetCode](https://leetcode.com/faiz_ullah_khan)
+- 🏆 Solved 350+ coding problems on [LeetCode](https://leetcode.com/faiz_ullah_khan)
 - 📫 How to reach me: faizullahkhan2209@gmail.com
 
 ---
